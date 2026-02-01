@@ -1,0 +1,3 @@
+# Lesson 02: Configuring System Settings and Basic Networking
+
+Anotações aqui...
