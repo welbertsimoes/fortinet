@@ -1,3 +1,3 @@
 # Lesson 12: FortiGate System Maintenance and Monitoring
 
-Anotações aqui...
+## **Visão geral da manutenção e monitoramento do sistema FortiGate**
